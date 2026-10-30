@@ -1,1 +1,1 @@
-# aller2-segmentacion-panoptica
+# taller2-segmentacion-panoptica
